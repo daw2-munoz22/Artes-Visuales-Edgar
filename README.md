@@ -1,8 +1,7 @@
-# React + Vite
+# Artes Visuales Edgar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta web está diseñada con el framework de React, css de la biblioteca de Tailwind y el código es .jsx
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ¿En que consiste esta web?
+Esta web consiste en representar una galería de arte
+Me ha servido para ir aprendiendo esta herramienta
